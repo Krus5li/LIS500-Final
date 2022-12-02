@@ -1,10 +1,10 @@
 # This is our LIS500 Project 
 
-Jessica Xu: 
+##Jessica Xu: 
 -Find new hosting service
 -Start creating landing page and questionare pages
 
-Kenneth Rusli: 
+##Kenneth Rusli: 
 -Start creating a database 
 -Help with creating landing page or analysis page (if completed with database)
 
